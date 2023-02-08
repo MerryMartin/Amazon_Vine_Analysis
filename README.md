@@ -3,7 +3,7 @@ module 17
 
 ## Project Overview
 ### Purpose
-The purpose of my analysis is to determine if there is any positivty bias in the reviews of Amazon's Vine program.
+The purpose of my analysis is to determine if there is any positivity bias in the reviews of Amazon's Vine program.
 ### Process
 * I Extracted an Amazon Review dataset for watches, transformed the dataset into 4 DataFrames that I then loaded into their respective tables in pdAdmin.
 ![customers_table](https://user-images.githubusercontent.com/115426070/217675969-de175b5c-61b4-4527-a619-cbc047a68d58.png)
