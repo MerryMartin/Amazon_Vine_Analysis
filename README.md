@@ -6,9 +6,21 @@ module 17
 The purpose of my analysis is to determine if there is any positivity bias in the reviews of Amazon's Vine program.
 ### Process
 * I Extracted an Amazon Review dataset for watches, transformed the dataset into 4 DataFrames that I then loaded into their respective tables in pdAdmin.
+
+  * Customers Table:
+   
 ![customers_table](https://user-images.githubusercontent.com/115426070/217675969-de175b5c-61b4-4527-a619-cbc047a68d58.png)
+
+  * Products Table:
+
 ![products_table](https://user-images.githubusercontent.com/115426070/217676002-33acebb8-f683-41d9-a574-374ed0de6a95.png)
+
+  * Review ID Table:
+  
 ![review_id_table](https://user-images.githubusercontent.com/115426070/217676027-edf6fe54-65ef-46be-bcf6-ae094c6d3212.png)
+
+  * Vine Table:
+  
 ![vine_table](https://user-images.githubusercontent.com/115426070/217676065-e7b3d9e1-de11-42e2-b738-7fa396be9d59.png)
 
 * I then exported the vine_table that contained the data for the reviews to a csv file so I could perform analysis of Amazon's Vine Program.   
