@@ -23,7 +23,7 @@ The purpose of my analysis is to determine if there is any positivity bias in th
   
 ![vine_table](https://user-images.githubusercontent.com/115426070/217676065-e7b3d9e1-de11-42e2-b738-7fa396be9d59.png)
 
-* I then exported the vine_table that contained the data for the reviews to a csv file so I could perform analysis of Amazon's Vine Program.   
+* I then exported the vine_table that contained the data for the reviews to a csv file so I could convert it to a DataFrame and use that to perform analysis of Amazon's Vine Program.   
 ![vine_df](https://user-images.githubusercontent.com/115426070/217676116-2bbad509-3230-4f56-a506-b4942070c2cc.png)
 
 
