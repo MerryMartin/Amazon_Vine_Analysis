@@ -35,7 +35,7 @@ The purpose of my analysis is to determine if there is any positivity bias in th
 ![total_vine](https://user-images.githubusercontent.com/115426070/217676165-de8bdb64-8c60-4719-bd48-3328248c670d.png)
 
  
-* There are 8362 non-Vine reviews.
+* There are 8362 total non-Vine reviews.
 
 ![total_non_vine](https://user-images.githubusercontent.com/115426070/217676226-451f4693-a187-4042-a07d-c4d912662c2e.png)
 
