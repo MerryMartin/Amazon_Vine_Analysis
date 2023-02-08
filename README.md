@@ -31,6 +31,7 @@ The purpose of my analysis is to determine if there is any positivity bias in th
 ### Evaluation of Vine and Non Vine Reviews for watches
 
 * There are 47 total Vine reviews. 
+
 ![total_vine](https://user-images.githubusercontent.com/115426070/217676165-de8bdb64-8c60-4719-bd48-3328248c670d.png)
 
  
