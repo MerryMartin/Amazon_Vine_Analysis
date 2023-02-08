@@ -65,6 +65,6 @@ The purpose of my analysis is to determine if there is any positivity bias in th
 According to the analyzed data, the Vine program does not have any positivity bias.  This is because the percentage of non-Vine 5 star reviews (51.81%) is much higher than the percentage of Vine 5 star reviews (31.91%).  If there was a positivity bias for the Vine program, we would expect to see a higher percentage of Vine 5 star reviews.  
 
 ### Additional Analysis
-One additional analysis we could do to further evaluate the positivity bias would be to analyze the 1 star reviews for both Vine and non-Vine reviews.  If there was a positivity bias, the Vine reviewers would be less likely to give the lowest review.  
+One additional analysis we could do to further evaluate the positivity bias would be to analyze the 1 star reviews for both Vine and non-Vine reviews.  If there was a positivity bias, the Vine reviewers would be less likely to give the lowest star rating.  
 
 
