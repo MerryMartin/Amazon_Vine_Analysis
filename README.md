@@ -6,40 +6,46 @@ module 17
 The purpose of my analysis is to determine if there is any positivty bias in the reviews of Amazon's Vine program.
 ### Process
 * I Extracted an Amazon Review dataset for watches, transformed the dataset into 4 DataFrames that I then loaded into their respective tables in pdAdmin.
-
-(insert table images)
+![customers_table](https://user-images.githubusercontent.com/115426070/217675969-de175b5c-61b4-4527-a619-cbc047a68d58.png)
+![products_table](https://user-images.githubusercontent.com/115426070/217676002-33acebb8-f683-41d9-a574-374ed0de6a95.png)
+![review_id_table](https://user-images.githubusercontent.com/115426070/217676027-edf6fe54-65ef-46be-bcf6-ae094c6d3212.png)
+![vine_table](https://user-images.githubusercontent.com/115426070/217676065-e7b3d9e1-de11-42e2-b738-7fa396be9d59.png)
 
 * I then exported the vine_table that contained the data for the reviews to a csv file so I could perform analysis of Amazon's Vine Program.   
-
-(vine_df image)
-
+![vine_df](https://user-images.githubusercontent.com/115426070/217676116-2bbad509-3230-4f56-a506-b4942070c2cc.png)
 
 
 ## Results
 ### Evaluation of Vine and Non Vine Reviews for watches
 
 * There are 47 total Vine reviews. 
+![total_vine](https://user-images.githubusercontent.com/115426070/217676165-de8bdb64-8c60-4719-bd48-3328248c670d.png)
 
  
 * There are 8362 non-Vine reviews.
 
+![total_non_vine](https://user-images.githubusercontent.com/115426070/217676226-451f4693-a187-4042-a07d-c4d912662c2e.png)
 
 
 * There are 15 Vine reviews with 5 stars.
 
+![vine_5star](https://user-images.githubusercontent.com/115426070/217676266-e07d4cff-a153-43de-8758-5ca2af0a67ef.png)
 
 
 * There are 4332 non-Vine reviews with 5 stars.
 
 
+![non_vine_5star](https://user-images.githubusercontent.com/115426070/217676283-d9fb6bf0-f654-449f-b56e-7335ba41446e.png)
 
 * 31.91% of the Vine reviews were 5 stars.
 
 
- 
+ ![vine_percentage](https://user-images.githubusercontent.com/115426070/217676290-4c3a0e7c-f3a5-427b-acd4-d2bc2ac5e514.png)
+
 * 51.81% of the non-Vine reviews were 5 stars.
 
-(images)
+
+![non_vine_percentage](https://user-images.githubusercontent.com/115426070/217676307-b8931e8f-957b-4174-9ff3-6f14ef0f76a3.png)
 
 ## Summary
 ### Evaluation of Bias
